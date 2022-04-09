@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/snarl.mp3-9c332cbb36f3738deba679da24763631.mp3str"
+
+[deps]
+
+source_file="res://Assets/snarl.mp3"
+dest_files=[ "res://.import/snarl.mp3-9c332cbb36f3738deba679da24763631.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
