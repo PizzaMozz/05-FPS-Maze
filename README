@@ -1,0 +1,25 @@
+# The Labyrinth
+Project for Game Technology, April 2022
+
+Navigate through the labyrinth while avoiding the creature.
+
+## Implementation
+First Person Controllable Character
+A maze for your character to navigate
+CSG
+Interactive objects (Key)
+Enemy (Zombie)
+A main menu, an in-game menu, and an end-game screen
+Clear Objective
+Multiplayer
+Music and SFX
+Captured Mouse
+
+## References
+Jason Francis Youtube Tutorials
+
+## Future Development
+None
+
+## Created by
+Bonnie Gawron
